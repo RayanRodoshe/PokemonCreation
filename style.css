@@ -1,0 +1,76 @@
+.poke{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: cursive;
+}
+
+.navigation{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+
+.anchorValue{
+    margin: 0px 10px;
+    color: blue;
+    font-family: cursive;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.anchorValue:hover{
+   color: red;
+}
+
+/* a class for type header */
+
+.pokiHead {
+text-align: center;
+font-family: cursive;
+}
+
+.pokiparagraph {
+    text-align: center;
+}
+
+.backTop {
+    text-align: center;
+    color: blue;
+    font-family: cursive;
+    font-size: large;
+    text-decoration: none;
+}
+
+.containerPoke {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-family: cursive;
+}
+
+.eachPoke {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 2px solid black;
+    margin: 40px 40px;
+    flex-direction: column;
+    width: 200px;
+    box-shadow: 10px 10px 5px rgb(212, 239, 249);
+}
+
+.middle{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img{
+    width: 60px;
+}
